@@ -1,0 +1,3 @@
+var appConstants = {
+  name: "Prod"
+}

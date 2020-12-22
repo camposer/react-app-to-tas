@@ -1,0 +1,7 @@
+---
+applications:
+- name: react-app-to-tas
+  buildpacks:
+  - "https://github.com/cloudfoundry/nginx-buildpack.git"
+  env:
+    CONFIG_FILE: "prod.js"
