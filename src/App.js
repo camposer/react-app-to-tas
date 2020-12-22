@@ -63,6 +63,7 @@ function About() {
         </ul>
       </p>
       <p>All configurations above rely on Cloud Foundry and NGINX Buildpack</p>
+      <p>Check out the code on my <a href="https://github.com/camposer/react-app-to-tas">github repo</a></p>
     </>
   );
 }

@@ -8,3 +8,5 @@ The goal of this project is to showcase a possible approach for deploying a Reac
 The application uses NGINX buildpack and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 For more details visit my related blog post: https://medium.com/@camposer
+
+A demo app can be found here: http://react-app-to-tas.cfapps.io (might be disabled later during the year)
