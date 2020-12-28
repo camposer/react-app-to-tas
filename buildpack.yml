@@ -2,4 +2,4 @@
 nginx:
   version: stable
   plaintext_env_vars:
-    - "OVERRIDE"
+    - "CONFIG_FILE"
