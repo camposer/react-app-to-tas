@@ -1,5 +1,3 @@
 ---
 nginx:
   version: stable
-  plaintext_env_vars:
-    - "CONFIG_FILE"
